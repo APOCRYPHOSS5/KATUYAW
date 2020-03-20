@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html  >
 <head>
-    
+    <title>Home</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.12.1, mobirise.com">
@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="assets/images/mbr-122x160.png" type="image/x-icon">
   <meta name="description" content="">
   
-  <title>Home</title>
+  
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
