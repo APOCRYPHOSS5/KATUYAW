@@ -44,13 +44,13 @@
                         <img src="assets/images/mbr-122x160.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="index.html?">
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="index.md?">
                         KATUYAW</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="index.html?">
+                    <a class="nav-link link text-black display-4" href="index.md?">
                         Home</a>
                 </li><li class="nav-item dropdown"><a class="nav-link link text-black dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu">
                         Datasets</a><div class="dropdown-menu"><a class="text-black dropdown-item display-4" href="#">New Item</a></div></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#core_team">
