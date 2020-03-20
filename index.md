@@ -53,8 +53,8 @@
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
                     <a class="nav-link link text-black display-4" href="index.html?">
                         Home</a>
-                </li><li class="nav-item dropdown"><a class="nav-link link text-black dropdown-toggle display-4" href="https://mobirise.co" data-toggle="dropdown-submenu">
-                        Datasets</a><div class="dropdown-menu"><a class="text-black dropdown-item display-4" href="https://mobirise.co">New Item</a></div></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#core_team">
+                </li><li class="nav-item dropdown"><a class="nav-link link text-black dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu">
+                        Datasets</a><div class="dropdown-menu"><a class="text-black dropdown-item display-4" href="#">New Item</a></div></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#core_team">
                         Core Team</a></li>
                 <li class="nav-item">
                     <a class="nav-link link text-black display-4" href="#cpe_lab">
