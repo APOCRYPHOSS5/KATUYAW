@@ -1,5 +1,3 @@
-
-<html  >
 <head>
     <title>Home</title>
   <meta charset="UTF-8">
@@ -497,7 +495,5 @@
   <script src="assets/gallery/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
   
-  
   <input name="animation" type="hidden">
   </body>
-</html>
