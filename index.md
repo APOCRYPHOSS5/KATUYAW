@@ -1,5 +1,4 @@
 <head>
-    <title>Home</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.12.1, mobirise.com">
